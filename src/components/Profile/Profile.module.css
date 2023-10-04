@@ -1,0 +1,7 @@
+.content {
+    grid-area: c;
+}
+
+.item img {
+    width: 180px;
+}
